@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Harish Kumar
 
-<!--
-**harishkumar-web/harishkumar-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Beacon Institute of Technology
 
-Here are some ideas to get you started:
+💻 Aspiring Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning HTML, CSS, JavaScript, Git & GitHub
+
+🚀 Passionate about building real-world web projects and continuously improving my development skills.
+
+---
+
+## 🚀 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 Personal Portfolio Website
+🔗 Live: https://harishkumar-web.github.io/portfolio/
+
+💻 Source Code:
+https://github.com/harishkumar-web/portfolio
+
+---
+
+### 📝 Student Registration Form
+🔗 Live:
+https://harishkumar-web.github.io/student-registration-form/
+
+💻 Source Code:
+https://github.com/harishkumar-web/student-registration-form
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript
+- Responsive Web Design
+- React.js (Next Goal)
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/harish-kumar-a90582421
+
+🌐 Portfolio
+https://harishkumar-web.github.io/portfolio/
+
+⭐ Thanks for visiting my profile!
