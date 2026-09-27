@@ -15,8 +15,10 @@
 - HTML5
 - CSS3
 - JavaScript
+- python
 - Git
 - GitHub
+  
 
 ---
 
