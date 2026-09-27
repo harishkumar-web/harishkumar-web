@@ -4,7 +4,7 @@
 
 💻 Aspiring Frontend Developer
 
-🌱 Currently learning HTML, CSS, JavaScript, Git & GitHub
+🌱 Currently learning HTML, CSS, JavaScript, python, Git & GitHub
 
 🚀 Passionate about building real-world web projects and continuously improving my development skills.
 
